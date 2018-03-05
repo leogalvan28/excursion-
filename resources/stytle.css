@@ -1,0 +1,41 @@
+body {
+	background-color: black;
+	font-family: 'verdana';
+}
+
+.encabezado{
+	text-align: center;
+	font-family: 'verdana';
+	font-size: 50px;
+	font-weight: bold;
+	color:white;
+}
+
+.link{
+	text-align: center;
+	font-size: 16px;
+	color:aquamarine;
+}
+
+.video{
+	text-align: center;
+}
+
+.encabezado2  {
+       font-size: 42px;
+       font-family: 'verdana';
+       color:#ffffff;
+       text-align: center;
+       font-weight: 300px;
+   }
+
+.parrafo2 {
+	font-family: 'verdana';
+	font-size: 21px;
+	color:gray;
+	text-align: center;
+}
+
+.imagen {
+	text-align: center;
+}
